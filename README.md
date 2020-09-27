@@ -1,4 +1,6 @@
-# HW1-AlaDeCoste
+# HW1-AlaDeCoste 
+
+The project link: https://decoste.github.io/HW1-AlaDeCoste/
 
 # 01 HTML CSS Git: Code Refactor
 
